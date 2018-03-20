@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\bin\x86\Debug\Inscrição estadual.exe.config
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\bin\x86\Debug\Inscrição estadual.exe
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\bin\x86\Debug\Inscrição estadual.pdb
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição estadual.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição_estadual.Form1.resources
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição_estadual.Properties.Resources.resources
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição estadual.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição estadual.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição estadual.exe
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição estadual.pdb
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição_estadual.Valida_2.resources
+C:\Users\user\source\repos\Inscrição estadual\Inscrição estadual\obj\x86\Debug\Inscrição_estadual.Valida3.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inscrição estadual", "Inscrição estadual\Inscrição estadual.csproj", "{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Debug|x86.ActiveCfg = Debug|x86
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Debug|x86.Build.0 = Debug|x86
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Release|x86.ActiveCfg = Release|x86
+		{93E87B3C-1902-4FDB-B8B3-0F9F594782CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FDE10D1-2D29-40AB-9549-F37E9F531AE3}
+	EndGlobalSection
+EndGlobal
